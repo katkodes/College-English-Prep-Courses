@@ -1,0 +1,156 @@
+﻿#wrap {
+background-color:#FBB03B;
+height:1500px;
+width:1020px;
+margin:0;
+text-align: center;
+overflow: auto;
+padding: 0 20px 0;
+box-shadow: 8px 8px white;
+}
+
+#banner {
+width: 1000px;
+height: 80px;
+background-color:#FBB03B;
+color: white;
+font-family: Georgia;
+padding: 0 0 100px;
+}
+
+
+#header {
+width: 1000px;
+height: 80px;
+background-color: black;
+color: #FBB03B;
+font-family: Georgia;
+padding: 10px 0 0;
+}
+
+#topnav { 
+height:60px;
+width:1000px;
+background-color:#009245;
+font-family: Georgia;
+padding: 350px 0 0; 
+}
+
+#Lcolumn {
+width: 400px;
+float: left;
+margin: 10px;
+padding: 0 38px 40px;
+height: 600px;
+background-color: #FBB03B;
+color: white;
+font-family: Georgia;
+text-align: left;
+overflow:auto;
+border-style: solid;
+border-width:0 0 0 2px;
+}
+
+#Rcolumn {
+float: left;
+width: 400px;
+height: 600px;
+margin: 10px;
+padding: 0 38px 40px;
+background-color: #FBB03B;
+color: white;
+font-family: Georgia;
+text-align: left;
+overflow:auto;
+border-style: solid;
+border-width:0 2px 0;
+}
+
+
+table, td, th {
+border: 1px solid black;
+}
+
+#footer {
+width: 1000px;
+height: 115px;
+background-color: #009245;
+color: white;
+font-family: Georgia;
+margin-top: 660px;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0 30px 0;
+width: 800px;
+overflow: hidden;
+}
+
+li {
+float: left;
+text-align: left;
+}
+
+li a {
+display: block;
+padding: 20px 20px;
+color: white;
+}
+
+
+body {
+color: white;
+background-color: black;
+}
+
+
+li a:link {color: white;
+        background-color: transparent;
+        text-decoration:none;
+}
+
+li a:visited {color: white;
+         background-color:transparent;
+         text-decoration:none;
+}
+
+li a:hover { color: #8CC63F;
+background-color: transparent;
+text-decoration:none;
+
+}
+
+li a:active {color: #8CC63F;
+background-color: transparent;
+text-decoration:none;}
+
+
+a:link {color: white;
+        background-color: transparent;
+        text-decoration: underline;
+}
+
+a:visited {color: white;
+         background-color:transparent;
+         text-decoration: underline;
+}
+
+a:hover { color: black;
+background-color: transparent;
+text-decoration:none;
+
+}
+
+a:active {color: #8CC63F;
+background-color: transparent;
+text-decoration:none;}
+
+img {
+  border-radius: 8px;
+}
+
+h1, h3 {
+text-shadow: 2px 2px grey;
+}
